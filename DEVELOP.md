@@ -30,8 +30,9 @@ Let's play with [MongoDB](https://docs.mongodb.org/manual/?_ga=1.186268077.56157
 1. Installation
     * For OS X:
 
-    ```
-    brew install mongodb
-    mongod --dbpath /path/to/inside/dev_data/mongodb/database
-    ```
-    Then open another terminal, run `mongo` to run MongoDB's commandline shell.
+        ```
+        brew install mongodb
+        mongod --dbpath /path/to/inside/dev_data/mongodb/database
+        ```
+        
+        Then open another terminal, run `mongo` to run MongoDB's commandline shell.
