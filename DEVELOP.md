@@ -1,4 +1,4 @@
-##Execution##
+## Execution ##
 
 ### Run locally ###
 * For OS X:
@@ -25,14 +25,16 @@ Then open your browser and visit [localhost:3000](http://localhost:3000).
 4. Right click on the file `www` and choose `run 'www'`.
 5. Then open your browser and visit [localhost:3000](http://localhost:3000).
 
-##Database##
+## Database ##
 Let's play with [MongoDB](https://docs.mongodb.org/manual/?_ga=1.186268077.561571883.1445584874).
-1. Installation
-    * For OS X:
 
-        ```
-        brew install mongodb
-        mongod --dbpath /path/to/inside/dev_data/mongodb/database
-        ```
-        
-        Then open another terminal, run `mongo` to run MongoDB's commandline shell.
+### Install MongoDB ###
+
+* For OS X:
+
+    ```
+    brew install mongodb
+    mongod --dbpath /path/to/inside/dev_data/mongodb/database
+    ```
+
+    Then open another terminal, run `mongo` to run MongoDB's commandline shell.
