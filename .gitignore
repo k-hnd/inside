@@ -1,4 +1,3 @@
 .idea/
 *.swp
 .DS_Store
-dev_data/mongodb/database/*
