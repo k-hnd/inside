@@ -17,6 +17,7 @@
 Then open your browser and visit [localhost:3000](http://localhost:3000).
 
 ## Run with [WebStorm](https://www.jetbrains.com/webstorm/) ##
+0. Install Node.js.
 1. `git clone` this project.
 2. Open WebStorm and click `open`, then choose `/path/to/inside/`.
 3. Find `inside/bin/www` from the [`Project Window`](https://www.jetbrains.com/idea/help/project-tool-window.html).
