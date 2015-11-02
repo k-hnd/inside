@@ -1,5 +1,0 @@
-# Ignore everything in this directory
-*
-# Except this file
-.gitignore
-# REF: http://codecook.io/git/187/add-empty-directory-to-git-repository
