@@ -39,3 +39,10 @@ Let's play with [MongoDB](https://docs.mongodb.org/manual/?_ga=1.186268077.56157
     ```
 
     Then open another terminal, run `mongo` to run MongoDB's commandline shell.
+
+### Setup MongoDB ###
+
+    ```
+    cd /path/to/inside/dev_data/mongodb/database
+    mongorestore
+    ```
