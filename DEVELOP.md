@@ -44,5 +44,4 @@ Let's play with [MongoDB](https://docs.mongodb.org/manual/?_ga=1.186268077.56157
 
     cd /path/to/inside/dev_data/mongodb/database
     mongorestore
-
-Dump data is set to MongoDB
+Test data is set to MongoDB
